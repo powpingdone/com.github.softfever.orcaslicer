@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+    <id>com.github.softfever.OrcaSlicer</id>
+    <launchable type="desktop-id">com.github.softfever.OrcaSlicer.desktop</launchable>
+    <provides>
+        <id>com.github.softfever.OrcaSlicer.desktop</id>
+    </provides>
+    <name>OrcaSlicer</name>
+    <summary>A 3D printer slicer forked from Bambu Studio with many new features</summary>
+    <developer_name>SoftFever</developer_name>
+    <url type="homepage">https://github.com/SoftFever/OrcaSlicer</url>
+    <url type="help">https://github.com/SoftFever/OrcaSlicer/wiki</url>
+    <url type="bugtracker">https://github.com/SoftFever/OrcaSlicer/issues/</url>
+    <metadata_license>0BSD</metadata_license>
+    <project_license>AGPL-3.0-only</project_license>
+    <content_rating type="oars-1.1" />
+    <requires>
+        <display_length compare="gt">768</display_length>
+    </requires>
+    <recommends>
+        <control>keyboard</control>
+        <control>pointing</control>
+    </recommends>
+    <screenshots>
+    </screenshots>
+    <description>
+	    <p>
+		    PLEASE FILL ME IN
+      </p>
+    </description>
+    <releases>
+	    <release version="2.0.0-4110ecc9" date="2024-01-30"> <url>https://github.com/SoftFever/OrcaSlicer/commit/4110ecc96801024a987295470561fe7fbda47573</url>
+        </release>
+    </releases>
+</component>
