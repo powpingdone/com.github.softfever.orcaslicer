@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
-    <id>com.github.softfever.OrcaSlicer</id>
-    <launchable type="desktop-id">com.github.softfever.OrcaSlicer.desktop</launchable>
+    <id>io.github.softfever.OrcaSlicer</id>
+    <launchable type="desktop-id">io.github.softfever.OrcaSlicer.desktop</launchable>
     <provides>
-        <id>com.github.softfever.OrcaSlicer.desktop</id>
+        <id>io.github.softfever.OrcaSlicer.desktop</id>
     </provides>
     <name>OrcaSlicer</name>
     <!-- hehe hadess @ppd 

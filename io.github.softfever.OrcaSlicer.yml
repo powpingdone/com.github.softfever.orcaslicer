@@ -1,4 +1,4 @@
-app-id: com.github.softfever.OrcaSlicer
+app-id: io.github.softfever.OrcaSlicer
 runtime: org.gnome.Platform
 runtime-version: "45"
 sdk: org.gnome.Sdk
@@ -15,7 +15,7 @@ finish-args:
   - --filesystem=/run/media
   - --filesystem=/media
   # Allow OrcaSlicer to talk to other instances
-  - --talk-name=com.github.softfever.OrcaSlicer.InstanceCheck.*
+  - --talk-name=io.github.softfever.OrcaSlicer.InstanceCheck.*
   - --system-talk-name=org.freedesktop.UDisks2
   # set dark theme
   - --env=BAMBU_STUDIO_DARK_THEME=false
@@ -323,7 +323,7 @@ modules:
 
       # AppData metainfo for Gnome Software & Co.
       - type: file
-        path: com.github.softfever.OrcaSlicer.metainfo.xml
+        path: io.github.softfever.OrcaSlicer.metainfo.xml
 
       # script to set dark theme variant
       - type: file
