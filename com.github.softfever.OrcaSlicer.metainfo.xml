@@ -26,8 +26,13 @@
     </recommends>
     <screenshots>
 	    <screenshot type="default">
-		    <image></image>
-		    <caption></caption>
+		    <image>https://raw.githubusercontent.com/powpingdone/com.github.softfever.orcaslicer/master/images/1.png</image>
+		    <caption>A model ready to be sliced on a buildplate.</caption>
+	    </screenshot>
+	    <screenshot>
+		<image>https://raw.githubusercontent.com/powpingdone/com.github.softfever.orcaslicer/master/images/2.png
+	</image>
+	<caption>A calibration test ready to be printed out.</caption>
 	    </screenshot>
     </screenshots>
     <description>
